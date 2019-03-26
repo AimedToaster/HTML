@@ -11,7 +11,7 @@
 <body>
 
   <header>
-    
+    <nav>
       <ul>
 
         <li class=one><a href="About">About</a></li>
@@ -22,7 +22,7 @@
         <li class=two><a href="Links">Links</a></li>
 
       </ul>
-    
+    </nav>
   </header>
 
   <a href=https://www.google.ca/> <img src=https://www.google.ca/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png title=google class=logo> <a/>
