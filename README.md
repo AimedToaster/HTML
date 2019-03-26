@@ -11,18 +11,15 @@
 <body>
 
   <header>
-    <nav>
       <ul>
-
         <li class=one><a href="About">About</a></li>
         <li class=one><a href="Store">Store</a></li>
         <li class=three><a href=#><button class= signin><b>&nbsp;Sign in&nbsp;</button></a></li>
         </b>
         <li class=two><a href="https://www.google.ca/intl/en/about/products?tab=wh"> <img src=https://jonathanyiv.github.io/google-homepage/images/apps.png width=17 height=17></a></li>
         <li class=two><a href="Links">Links</a></li>
-
       </ul>
-    </nav>
+    
   </header>
 
   <a href=https://www.google.ca/> <img src=https://www.google.ca/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png title=google class=logo> <a/>
